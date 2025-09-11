@@ -2,7 +2,7 @@
 
 A printer designed in ~~almost 24 hours~~ somewhere around 40-50 hours.
 
-![alt text](renders-final/Monstrosity-full.PNG)
+![alt text](renders-final/Monstrosity-full.png)
 
 # but why?
 
